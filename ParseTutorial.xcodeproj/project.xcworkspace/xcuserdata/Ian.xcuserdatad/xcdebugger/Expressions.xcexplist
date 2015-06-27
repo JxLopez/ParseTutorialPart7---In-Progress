@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ParseTutorial.CollectionView.(loadCollectionViewData (ParseTutorial.CollectionView) -&gt; () -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "countries">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.CollectionView.viewDidLoad (ParseTutorial.CollectionView)() -&gt; ():CollectionView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CGRectGetWidth(collectionView!.frame)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.DetailViewController.viewDidLoad (ParseTutorial.DetailViewController)() -&gt; ():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "object[&quot;nameEnglish&quot;] as String">
+            </PersistentString>
+            <PersistentString
+               value = "currentObject!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.CollectionView.collectionView (ParseTutorial.CollectionView)(ObjectiveC.UICollectionView, didSelectItemAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ():CollectionView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.CollectionView.(viewDidLoad (ParseTutorial.CollectionView) -&gt; () -&gt; ()).(closure #1):CollectionView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.countries">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.DetailViewController.saveButton (ParseTutorial.DetailViewController)(Swift.AnyObject) -&gt; ():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "split(capital.text + &quot; &quot; + nameEnglish.text + &quot; &quot; + nameLocal.text) {$0 == &quot; &quot;}">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.CollectionView.button (ParseTutorial.CollectionView)(Swift.AnyObject) -&gt; ():CollectionView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "countries">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.DetailViewController.currentObject.setter : Swift.Optional&lt;ObjectiveC.PFObject&gt;:DetailViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.CollectionView.collectionView (ParseTutorial.CollectionView)(ObjectiveC.UICollectionView, cellForItemAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ObjectiveC.UICollectionViewCell:CollectionView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "countries.count">
+            </PersistentString>
+            <PersistentString
+               value = "countries">
+            </PersistentString>
+            <PersistentString
+               value = "c.count">
+            </PersistentString>
+            <PersistentString
+               value = "countries[indexPath.row]">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "self.countries">
+            </PersistentString>
+            <PersistentString
+               value = "self.countries[indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.DetailViewController.init (ParseTutorial.DetailViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; ParseTutorial.DetailViewController:DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.CollectionView.reloadCollectionView (ParseTutorial.CollectionView)() -&gt; ():CollectionView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.CollectionView.(loadCollectionViewData (ParseTutorial.CollectionView) -&gt; () -&gt; ()).(closure #1):CollectionView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "countries">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParseTutorial.CollectionView.prepareForSegue (ParseTutorial.CollectionView)(ObjectiveC.UIStoryboardSegue, sender : Swift.Optional&lt;Swift.AnyObject&gt;) -&gt; ():CollectionView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView!.indexPathsForSelectedItems.IndexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "sender as UICollectionViewCell">
+            </PersistentString>
+            <PersistentString
+               value = "collectionView!">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
